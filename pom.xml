@@ -9,7 +9,7 @@
   <artifactId>pgjdbc-aggregate</artifactId>
   <packaging>pom</packaging>
   <name>PostgreSQL JDBC Driver aggregate</name>
-  <version>9.4.1209</version>
+  <version>9.4.1209.NO_GENERATED_KEYS</version>
   <description>PgJDBC aggregate project</description>
   <url>https://github.com/pgjdbc/pgjdbc</url>
 
